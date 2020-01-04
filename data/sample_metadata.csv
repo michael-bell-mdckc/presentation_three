@@ -1,0 +1,20 @@
+sample,EVENT,WORST_1,WORST_2,WORST_3
+2000,Annual Returns,MSFT,HD,INTC
+2001,Annual Returns,MRK,AXP,DIS
+2002,Annual Returns,HD,INTC,MCD
+2003,Annual Returns,MRK,JNJ,WMT
+2004,Annual Returns,MRK,INTC,KO
+2005,Annual Returns,IBM,DIS,WMT
+2006,Annual Returns,INTC,WMT,HD
+2007,Annual Returns,HD,AXP,JPM
+2008,Annual Returns,AXP,MRK,MSFT
+2009,Annual Returns,XOM,WMT,PG
+2010,Annual Returns,MSFT,JNJ,JPM
+2011,Annual Returns,JPM,UTX,MSFT
+2012,Annual Returns,INTC,MCD,CAT
+2013,Annual Returns,IBM,CAT,MCD
+2014,Annual Returns,IBM,XOM,MCD
+2015,Annual Returns,WMT,AXP,CAT
+2016,Annual Returns,KO,DIS,HD
+2017,Annual Returns,IBM,XOM,MRK
+2018,Annual Returns,IBM,CAT,MMM
